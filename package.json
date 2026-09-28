@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/stitchlink",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Stitch URLs and link query parts with stable normalization.",
+  "bin": {
+    "stitchlink": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/stitchlink.git"
+  },
+  "homepage": "https://theworker02.github.io/stitchlink/",
+  "keywords": [
+    "stitch",
+    "link",
+    "url",
+    "cli",
+    "toolkit"
+  ]
+}
